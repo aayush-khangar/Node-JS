@@ -1,2 +1,2 @@
 # Node-JS
-Repository for Node JS Practise
+Repository for Node JS Practice

@@ -36,6 +36,14 @@ var complexEmp ={
         {
             "cityName":"Bhandara",
             "StateName":"Maharashtra"
+        },
+        {
+            "cityName":"Banglore",
+            "StateName":"Karnataka"
+        },
+        {
+            "cityName":"Chandrapur",
+            "StateName":"Maharashtra"
         }
     ],
     "empGender":{
